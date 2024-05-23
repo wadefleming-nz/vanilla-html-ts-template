@@ -1,0 +1,17 @@
+# .gitignore
+
+# Node.js dependencies
+node_modules
+
+# TypeScript compiled directory
+dist
+
+# IDE - VSCode
+.vscode
+*.code-workspace
+
+# Logs
+npm-debug.log*
+
+.cache
+.parcel-cache
