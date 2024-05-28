@@ -1,3 +1,3 @@
-it('returns true', () => {
-    expect(true).toBe(true);
-})
+test("basic", () => {
+  expect(true).toEqual(true);
+});
